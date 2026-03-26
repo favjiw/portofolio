@@ -1,0 +1,14 @@
+packages:
+  "framer-motion": "For page transitions, smooth scroll animations, and fluid UI interactions"
+  "clsx": "For conditional class names merging"
+  "tailwind-merge": "For merging tailwind classes without conflicts"
+
+images:
+  - path: "artifacts/web/public/images/hero-bg.png"
+    description: "Dark, sleek, abstract geometric background with subtle deep blue and purple glowing gradients, professional tech aesthetic, glassmorphism feel"
+    aspect_ratio: "16:9"
+
+notes:
+  - This is a purely static portfolio website
+  - No backend API is needed; all data is hardcoded
+  - Deployment target is Vercel
